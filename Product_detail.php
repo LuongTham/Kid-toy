@@ -297,8 +297,8 @@
               </div>
               <div class="col-xs-12 col-md-6 info">
                 <h1 itemprop="name"><?= $productname; ?></h1>
-                <p class="sku">Mã sản phẩm:&nbsp; <span></span></p>
-                <p class="vendor">Nhà sản xuất:&nbsp; <span> ATN</span></p>
+                <p class="sku">Product ID:&nbsp; <span></span></p>
+                <p class="vendor">Producer:&nbsp; <span> ATN</span></p>
                 <p itemprop="price" class="price-box product-price-box"> <span class="special-price"> <span class="price product-price"> <?= $price; ?> $</span> </span> </p>
                 <p class="desc rte"> <?= $description; ?></p>
                 <form action="/cart/add" method="post" enctype="multipart/form-data" class="product-form">
@@ -307,11 +307,11 @@
                     <option  value="1853286">Trắng - 14.500.000₫</option>
                   </select>
                   <div class="quantity">
-                    <label>Số lượng</label>
+                    <label>Quantity: </label>
                     <input type="number" id="qty" name="quantity" value="1" min="1" class="input-control" required="Không thể để trống">
                   </div>
                   <div class="action-btn">
-                    <button class="button product-add-to-cart">Cho vào giỏ hàng</button>
+                    <button class="button product-add-to-cart">Add to Cart</button>
                   </div>
                 </form>
               </div>
@@ -319,7 +319,7 @@
           </div>
           <div class="middle">
             <ul class="list-unstyled navtabs">
-              <li><a href="#tab1" class="head-tabs head-tab1 active" data-src=".head-tab1">Chi tiết sản phẩm</a></li>
+              <li><a href="#tab1" class="head-tabs head-tab1 active" data-src=".head-tab1">Product Detail</a></li>
             </ul>
             <div class="tab-container"> 
               <!-- chi tiet -->
