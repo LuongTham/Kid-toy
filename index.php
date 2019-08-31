@@ -118,22 +118,22 @@
   <!-- end header -->
   <div class="content">
     <div class="container">
-      <h1 style="display:none;">DKT Store</h1>
+      <h1 style="display:none;">ATN Store</h1>
       <!-- category product -->
       <div class="slideshow">
         <div class="row">
           <div class="col-md-3 col-xs-12 hidden-xs hidden-sm">
             <aside class="aside-category">
-              <h3><i class="fa fa-bars"></i>&nbsp;&nbsp; Danh mục sản phẩm</h3>
+              <h3><i class="fa fa-bars"></i>&nbsp;&nbsp; All Categories</h3>
               <ul class="list-unstyled">
-                <li><a href="index.php?controller=product&id=1">Sữa Vinamilk</a></li>
-                <li><a href="index.php?controller=product&id=2">Sữa Alaska</a></li>
-                <li><a href="index.php?controller=product&id=3">Sữa Nutifood</a></li>
-                <li><a href="index.php?controller=product&id=4">Sữa XO</a></li>
-                <li><a href="index.php?controller=product&id=5">Sữa Abbott</a></li>
-                <li><a href="index.php?controller=product&id=6">Sữa Zin Zin</a></li>
-                <li><a href="index.php?controller=product&id=7">Sữa Mộc Châu</a></li>
-                <li><a href="index.php?controller=product&id=9">Sữa Ông Thọ</a></li>
+                <li><a href="index.php?controller=product&id=1">Apparel & Accessories Toy</a></li>
+                <li><a href="index.php?controller=product&id=2">Arts & Crafts Toy</a></li>
+                <li><a href="index.php?controller=product&id=3">Auto, Motorcycle Parts Toy</a></li>
+                <li><a href="index.php?controller=product&id=4">Electrical & Electronics Toy</a></li>
+                <li><a href="index.php?controller=product&id=5">Health & Medicine Toy</a></li>
+                <li><a href="index.php?controller=product&id=6">Industrial Toy</a></li>
+                <li><a href="index.php?controller=product&id=7">Instruments & Meters Toy</a></li>
+                <li><a href="index.php?controller=product&id=9">Construction & Decoration Toy</a></li>
               </ul>
             </aside>
           </div>
@@ -173,19 +173,19 @@
           <!-- end support -->
           <div class="online_support block">
             <div class="new_title">
-              <h2>Hỗ trợ trực tuyến</h2>
+              <h2>Online Support</h2>
             </div>
             <div class="block-content">
               <div class="sp_1">
-                <p>Tư vấn bán hàng 1</p>
+                <p>Sales consultant 1/p>
                 <p>Mrs. Dung: (04) 3786 8904</p>
               </div>
               <div class="sp_1">
-                <p>Tư vấn bán hàng 2</p>
+                <p>Sales consultant 2</p>
                 <p>Mr. Tuấn: (04) 3786 8904</p>
               </div>
               <div class="sp_1">
-                <p>Email liên hệ</p>
+                <p>Email contact: </p>
                 <p>support@mail.com</p>
               </div>
             </div>
@@ -193,7 +193,7 @@
           <!-- end support online --> 
           <!-- hot news -->
           <div class="home-blog">
-            <h2 class="title"> <span>Tin tức</span></h2>
+            <h2 class="title"> <span>News</span></h2>
             <div class="row">
               <div class="owl-home-blog owl-home-blog-sidebar"> 
                 <!-- list hot news -->
@@ -310,22 +310,22 @@
       <div class="col-xs-12 col-sm-4">
         <div class="image"> <img src="public/frontend/100/047/633/themes/517833/assets/ico-service-1221b.png?1481775169361" alt="Giao hàng miễn phí" title="Giao hàng miễn phí" class="img-responsive"> </div>
         <div class="info">
-          <h3>Giao hàng miễn phí</h3>
-          <p>Miễn phí giao hàng trong nội thành Hà Nội</p>
+          <h3>Free Delivery</h3>
+          <p>Free delivery in Hanoi city</p>
         </div>
       </div>
       <div class="col-xs-12 col-sm-4">
         <div class="image"> <img src="public/frontend/100/047/633/themes/517833/assets/ico-service-2221b.png?1481775169361" class="img-responsive" alt="Khuyến mại" title="Khuyến mại"> </div>
         <div class="info">
-          <h3>Khuyến mại</h3>
-          <p>Khuyến mại sản phẩm nếu đơn hàng trên 1.000.000đ</p>
+          <h3>Promotion</h3>
+          <p>Product promotion if the order is above 100$</p>
         </div>
       </div>
       <div class="col-xs-12 col-sm-4">
         <div class="image"> <img src="public/frontend/100/047/633/themes/517833/assets/ico-service-3221b.png?1481775169361" class="img-responsive" alt="Hoàn trả lại tiền" title="Hoàn trả lại tiền"> </div>
         <div class="info">
-          <h3>Hoàn trả lại tiền</h3>
-          <p>Nếu sản phẩm không đảm bảo chất lượng hoặc sản phẩm không đúng miêu tả</p>
+          <h3>Refunds</h3>
+          <p>If the product does not guarantee quality or the product is not in the description</p>
         </div>
       </div>
     </div>
@@ -336,39 +336,39 @@
     <div class="container">
       <div class="row">
         <div class="col-xs-12 col-sm-3">
-          <h3>Về chúng tôi</h3>
+          <h3>About Uss</h3>
           <ul class="list-unstyled">
-            <li><a href="index.html">Trang chủ</a></li>
-            <li><a href="gioi-thieu">Giới thiệu</a></li>
-            <li><a href="tin-tuc">Tin tức</a></li>
-            <li><a href="gioi-thieu">Liên hệ</a></li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="gioi-thieu">Introduce</a></li>
+            <li><a href="tin-tuc">News</a></li>
+            <li><a href="gioi-thieu">Contact</a></li>
           </ul>
         </div>
         <div class="col-xs-12 col-sm-3">
-          <h3>Hướng dẫn</h3>
+          <h3>Guide</h3>
           <ul class="list-unstyled">
-            <li><a href="huo-ng-da-n-mua-ha-ng">Hướng dẫn mua hàng</a></li>
-            <li><a href="huong-dan">Giao nhận và thanh toán</a></li>
-            <li><a href="do-i-tra-va-ba-o-ha-nh">Đổi trả và bảo hành</a></li>
-            <li><a href="account/register">Đăng ký thành viên</a></li>
+            <li><a href="huo-ng-da-n-mua-ha-ng">Shopping guide</a></li>
+            <li><a href="huong-dan">Delivery and payment</a></li>
+            <li><a href="do-i-tra-va-ba-o-ha-nh">Return and warranty</a></li>
+            <li><a href="account/register">sign up</a></li>
           </ul>
         </div>
         <div class="col-xs-12 col-sm-3">
-          <h3>Chính sách</h3>
+          <h3>Policy</h3>
           <ul class="list-unstyled">
-            <li><a href="chinh-sach">Chính sách thanh toán</a></li>
-            <li><a href="chi-nh-sa-ch-va-n-chuye-n">Chính sách vận chuyển</a></li>
-            <li><a href="chi-nh-sa-ch-do-i-tra">Chính sách đổi trả</a></li>
-            <li><a href="chi-nh-sa-ch-ba-o-ha-nh">Chính sách bảo hành</a></li>
+            <li><a href="chinh-sach">Payment policy</a></li>
+            <li><a href="chi-nh-sa-ch-va-n-chuye-n">Shipping policy</a></li>
+            <li><a href="chi-nh-sa-ch-do-i-tra">Return policy</a></li>
+            <li><a href="chi-nh-sa-ch-ba-o-ha-nh">Warranty Policy</a></li>
           </ul>
         </div>
         <div class="col-xs-12 col-sm-3">
-          <h3>Điều khoản</h3>
+          <h3>Rules</h3>
           <ul class="list-unstyled">
-            <li><a href="dieu-khoan">Điều khoản sử dụng</a></li>
-            <li><a href="die-u-khoa-n-giao-di-ch">Điều khoản giao dịch</a></li>
-            <li><a href="di-ch-vu-tie-n-i-ch">Dịch vụ tiện ích</a></li>
-            <li><a href="quye-n-so-hu-u-tri-tue">Quyền sở hữu trí tuệ</a></li>
+            <li><a href="dieu-khoan">Terms of use</a></li>
+            <li><a href="die-u-khoa-n-giao-di-ch">Terms of transactions</a></li>
+            <li><a href="di-ch-vu-tie-n-i-ch">Covenient service</a></li>
+            <li><a href="quye-n-so-hu-u-tri-tue">Intellectual property rights</a></li>
           </ul>
         </div>
       </div>
@@ -378,13 +378,13 @@
   <div class="bottom-footer">
     <div class="container">
       <div class="row">
-        <div class="col-xs-12 col-sm-5"> © Bản quyền thuộc về Avent Team</div>
+        <div class="col-xs-12 col-sm-5"> © Copyright of Tham Luong</div>
         <div class="col-xs-12 col-sm-7">
           <ul class="list-unstyled">
-            <li><a href="index.html">Trang chủ</a></li>
-            <li><a href="gioi-thieu">Giới thiệu</a></li>
-            <li><a href="tin-tuc">Tin tức</a></li>
-            <li><a href="lien-he">Liên hệ</a></li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="gioi-thieu">Introduction</a></li>
+            <li><a href="tin-tuc">News</a></li>
+            <li><a href="lien-he">Contact</a></li>
           </ul>
         </div>
       </div>
@@ -398,7 +398,7 @@
 <script src='public/frontend/100/047/633/themes/517833/assets/ajax-cart221b.js?1481775169361' type='text/javascript'></script>
 <div class="ajax-error-modal modal">
   <div class="modal-inner">
-    <div class="ajax-error-title">Lỗi</div>
+    <div class="ajax-error-title">Erro</div>
     <div class="ajax-error-message"></div>
   </div>
 </div>
