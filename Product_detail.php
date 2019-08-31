@@ -156,7 +156,7 @@
                     <div class="item active"> <img src="images/slide1.jpg" alt="slide 1"> </div>
                     <div class="item "> <img src="images/slide2.jpg" alt="Slide 2"> </div>
                     <div class="item "> <img src="images/slide3.jpg" alt="Slide 3"> </div>
-                    <div class="item "> <img src="pimages/slide4.jpg" alt="Slide 4"> </div>
+                    <div class="item "> <img src="images/slide4.jpg" alt="Slide 4"> </div>
                   </div>
                 
                 <!-- Left and right controls --> 
