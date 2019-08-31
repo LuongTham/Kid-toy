@@ -80,13 +80,13 @@
                 <li class="clearfix" id="item-1853038">
                   <div class="image"> <a href="index.php?controller=product_detail&id=5"> <img alt="Sản phẩm 2" src="public/upload/product/1494416685000000000010021355-may-tinh-xach-tay-lenovo-ideapad-flex-2-14e284.jpg" title="Sản phẩm 2" class="img-responsive"> </a> </div>
                   <div class="info">
-                    <h3><a href="index.php?controller=product_detail&id=5">Sản phẩm 2</a></h3>
+                    <h3><a href="index.php?controller=product_detail&id=5">Product No.2</a></h3>
                     <p>1 x 2,000,000₫</p>
                   </div>
                   <div> <a href="index.php?controller=cart&act=delete&id=5"> <i class="fa fa-times"></i></a> </div>
                 </li>
               </ul>
-              <a href="index.php?controller=checkout" class="button">Thanh toán</a> </div>
+              <a href="index.php?controller=checkout" class="button">Purchase</a> </div>
           </div>
         </div>
       </div>
@@ -198,11 +198,11 @@
               <div class="owl-home-blog owl-home-blog-sidebar"> 
                 <!-- list hot news -->
                 <div class="item">
-                  <div class="article"> <a href="index.php?controller=news_detail&id=20" class="image"> <img src="public/frontend/images/chicago.jpg" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
+                  <div class="article"> <a href="index.php?controller=news_detail&id=20" class="image"> <img src="images/111.jpg" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
                     <div class="info">
-                      <h3><a href="index.php?controller=news_detail&id=20">Where I can buy this?</a></h3>
+                      <h3><a href="index.php?controller=news_detail&id=20">Pinky teaddy bear</a></h3>
                       <p class="desc">
-                      <p>X-37B c&oacute; thể triển khai như vũ kh&iacute; ti&ecirc;u diệt vệ tinh của đối phương, hoặc thả vũ kh&iacute; động năng đến bất kỳ vị tr&iacute; n&agrave;o tr&ecirc;n Tr&aacute;i Đất.</p>
+                      <p>A teddy bear is a soft toy in the form of a bear. ... Since the creation of the first teddy bears which sought to imitate the form of real bear cubs, "teddies" have greatly varied in form, style, color, and material. </p>
                       </p>
                     </div>
                   </div>
@@ -210,11 +210,11 @@
                 <!-- end list hot news --> 
                 <!-- list hot news -->
                 <div class="item">
-                  <div class="article"> <a href="index.php?controller=news_detail&id=19" class="image"> <img src="public/frontend/images/chicago.jpg" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
+                  <div class="article"> <a href="index.php?controller=news_detail&id=19" class="image"> <img src="images/55.jpg" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
                     <div class="info">
-                      <h3><a href="index.php?controller=news_detail&id=19">Tip for user@</a></h3>
+                      <h3><a href="index.php?controller=news_detail&id=19">Mini Bicycle</a></h3>
                       <p class="desc">
-                      <p>(D&acirc;n tr&iacute;) - Nếu bạn l&agrave; mẫu người th&iacute;ch sử dụng iPhone hoặc iPad để l&agrave;m việc, ắt hẳn ch&uacute;ng ta từng c&oacute; lần muốn in văn bản hoặc t&agrave;i liệu trực tiếp từ thiết bị.</p>
+                      <p>This is the figure of the bicycle with the 1:8 scale. Having fully components of the bicycle such as wheel...This figure illustrates 32 regulatory signs and plaques for bicycle facilities.</p>
                       </p>
                     </div>
                   </div>
@@ -222,11 +222,11 @@
                 <!-- end list hot news --> 
                 <!-- list hot news -->
                 <div class="item">
-                  <div class="article"> <a href="index.php?controller=news_detail&id=17" class="image"> <img src="public/frontend/images/chicago.jpg" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
+                  <div class="article"> <a href="index.php?controller=news_detail&id=17" class="image"> <img src="images/slide3.jpg" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
                     <div class="info">
                       <h3><a href="index.php?controller=news_detail&id=17">Hot news</a></h3>
                       <p class="desc">
-                      <p>(D&acirc;n tr&iacute;) - Hầu hết c&aacute;c sản phẩm nằm trong top 10 b&aacute;n chạy th&aacute;ng 2 v&agrave; nửa đầu th&aacute;ng 3 năm 2017 của c&aacute;c nh&agrave; b&aacute;n lẻ đều đến từ Samsung v&agrave; Oppo. C&aacute;c thương hiệu lớn kh&aacute;c dần dần bị thụt l&ugrave;i về sau...</p>
+                      <p>Shop Black Friday Deals for Toys at Debenhams. We stock the latest trends and offer the widest range of products in our Toys department compared with your ...</p>
                       </p>
                     </div>
                   </div>
@@ -234,11 +234,11 @@
                 <!-- end list hot news --> 
                 <!-- list hot news -->
                 <div class="item">
-                  <div class="article"> <a href="index.php?controller=news_detail&id=16" class="image"> <img src="public/frontend/images/chicago.jpg" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
+                  <div class="article"> <a href="index.php?controller=news_detail&id=16" class="image"> <img src="images/img12.jpg" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
                     <div class="info">
-                      <h3><a href="index.php?controller=news_detail&id=16">Những dấu hiệu cho thấy chiếc tủ lạnh nhà bạn đang gặp vấn đề</a></h3>
+                      <h3><a href="index.php?controller=news_detail&id=16">Car & Robot</a></h3>
                       <p class="desc">
-                      <p>(D&acirc;n tr&iacute;) - Mặc d&ugrave; l&agrave; một thiết bị điện tử với độ bền cao, thậm ch&iacute; c&oacute; thể l&ecirc;n tới 10-20 năm, nhưng điều đ&oacute; kh&ocirc;ng c&oacute; nghĩa l&agrave; tủ lạnh kh&ocirc;ng thể hỏng h&oacute;c hay gặp sự cố.</p>
+                      <p>As the bumblebee character in the Transformer movie, this figure can smoothly turning from the yellow car into the giant robot with 2 arms, legs and the head without missing any components.</p>
                       </p>
                     </div>
                   </div>
@@ -248,9 +248,9 @@
                 <div class="item">
                   <div class="article"> <a href="index.php?controller=news_detail&id=15" class="image"> <img src="public/frontend/images/chicago.jpg" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
                     <div class="info">
-                      <h3><a href="index.php?controller=news_detail&id=15">Oppo khởi chạy chương trình đặt hàng trước F3 Plus tại Việt Nam@</a></h3>
+                      <h3><a href="index.php?controller=news_detail&id=15">DC Lego</a></h3>
                       <p class="desc">
-                      <p>Sau ng&agrave;y ra mắt ch&iacute;nh thức v&agrave;o 23/3 tới, Oppo sẽ tiến h&agrave;nh chương tr&igrave;nh đặt h&agrave;ng trước F3 Plus từ ng&agrave;y 24/3 đến hết ng&agrave;y 31/3/2017, kh&aacute;ch h&agrave;ng đặt mua trước sản phẩm F3 Plus sẽ nhận được bộ qu&agrave; tặng d&agrave;nh hấp dẫn.</p>
+                      <p>Batman - the dark night heroes in the movie of Warner Bros Pictures is to be appeared again with the shape of lego for kids to play with. Fighting against the crime, saving heroes... let your kid to determie which is the action for batman.</p>
                       </p>
                     </div>
                   </div>
@@ -261,7 +261,7 @@
           </div>
           <!-- end hot news --> 
           <!-- adv --> 
-          <img src="public/frontend/images/banner03d5.jpg"> 
+          <img src="images/banner.jpg"> 
           <!-- end adv --> 
           
         </div>
@@ -299,7 +299,7 @@
       </div>
     </div>
     <!-- adv -->
-    <div class="widebanner"> <a href="#"><img src="public/frontend/100/047/633/themes/517833/assets/widebanner221b.jpg?1481775169361" alt="#" class="img-responsive"></a> </div>
+    <div class="widebanner"> <a href="#"><img src="images/widebanner1.jpg" alt="#" class="img-responsive"></a> </div>
     <!-- end adv --> 
     
   </div>
