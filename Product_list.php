@@ -20,7 +20,7 @@
                         <p class="price-box"> <span class="special-price"> <span class="price product-price"><?= $price; ?> $</span> </span> </p>
                         <div class="action-btn">
                           <form action="cart/add" method="post" enctype="multipart/form-data" id="product-actions-1168979">
-                            <a href="#" class="button">Chọn sản phẩm</a>
+                            <a href="#" class="button">Add To Cart</a>
                           </form>
                         </div>
                       </div>

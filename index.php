@@ -68,12 +68,12 @@
           }
         </script>
         <form method="post" action="">
-          <input type="text" value="" placeholder="Nhập từ khóa tìm kiếm..." id="key" class="input-control">
+          <input type="text" value="" placeholder="Enter what you want to search here..." id="key" class="input-control">
           <button  type="submit"> <i class="fa fa-search" onclick="return search();"></i> </button>
         </form>
       </div>
       <div class="col-xs-12 col-sm-12 col-md-3 mini-cart">
-        <div class="wrapper-mini-cart"> <span class="icon"><i class="fa fa-shopping-cart"></i></span> <a href="cart"> <span class="mini-cart-count"> 1 </span> sản phẩm <i class="fa fa-caret-down"></i></a>
+        <div class="wrapper-mini-cart"> <span class="icon"><i class="fa fa-shopping-cart"></i></span> <a href="cart"> <span class="mini-cart-count"> 1 </span> Products <i class="fa fa-caret-down"></i></a>
           <div class="content-mini-cart">
             <div class="has-items">
               <ul class="list-unstyled">
@@ -98,17 +98,17 @@
     <div class="container">
       <div class="clearfix">
         <ul class="main-nav hidden-xs hidden-sm list-unstyled">
-          <li class="active"><a href="index.php">Trang chủ</a></li>
-          <li ><a href="index.php?controller=gioithieu">Giới thiệu</a></li>
-          <li ><a href="index.php?controller=news">Tin tức</a></li>
-          <li ><a href="index.php?controller=lienhe">Liên hệ</a></li>
+          <li class="active"><a href="index.php">Home</a></li>
+          <li ><a href="index.php?controller=gioithieu">Introduction</a></li>
+          <li ><a href="index.php?controller=news">News</a></li>
+          <li ><a href="index.php?controller=lienhe">Contact</a></li>
         </ul>
         <a href="javascript:void(0);" class="toggle-main-menu hidden-md hidden-lg"> <i class="fa fa-bars"></i> </a>
         <ul class="list-unstyled mobile-main-menu hidden-md hidden-lg" style="display:none">
-          <li class="active"><a href="index.php">Trang chủ</a></li>
-          <li ><a href="index.php?controller=gioithieu">Giới thiệu</a></li>
-          <li ><a href="index.php?controller=tintuc">Tin tức</a></li>
-          <li ><a href="index.php?controller=lienhe">Liên hệ</a></li>
+          <li class="active"><a href="index.php">Home</a></li>
+          <li ><a href="index.php?controller=gioithieu">Introduction</a></li>
+          <li ><a href="index.php?controller=tintuc">News</a></li>
+          <li ><a href="index.php?controller=lienhe">Contact</a></li>
         </ul>
       </div>
     </div>
@@ -177,7 +177,7 @@
             </div>
             <div class="block-content">
               <div class="sp_1">
-                <p>Sales consultant 1/p>
+                <p>Sales consultant 1</p>
                 <p>Mrs. Dung: (04) 3786 8904</p>
               </div>
               <div class="sp_1">
@@ -200,7 +200,7 @@
                 <div class="item">
                   <div class="article"> <a href="index.php?controller=news_detail&id=20" class="image"> <img src="public/frontend/images/chicago.jpg" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
                     <div class="info">
-                      <h3><a href="index.php?controller=news_detail&id=20">Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?</a></h3>
+                      <h3><a href="index.php?controller=news_detail&id=20">Where I can buy this?</a></h3>
                       <p class="desc">
                       <p>X-37B c&oacute; thể triển khai như vũ kh&iacute; ti&ecirc;u diệt vệ tinh của đối phương, hoặc thả vũ kh&iacute; động năng đến bất kỳ vị tr&iacute; n&agrave;o tr&ecirc;n Tr&aacute;i Đất.</p>
                       </p>
@@ -212,7 +212,7 @@
                 <div class="item">
                   <div class="article"> <a href="index.php?controller=news_detail&id=19" class="image"> <img src="public/frontend/images/chicago.jpg" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
                     <div class="info">
-                      <h3><a href="index.php?controller=news_detail&id=19">Mẹo in văn bản từ iPhone, iPad không phải ai cũng biết@</a></h3>
+                      <h3><a href="index.php?controller=news_detail&id=19">Tip for user@</a></h3>
                       <p class="desc">
                       <p>(D&acirc;n tr&iacute;) - Nếu bạn l&agrave; mẫu người th&iacute;ch sử dụng iPhone hoặc iPad để l&agrave;m việc, ắt hẳn ch&uacute;ng ta từng c&oacute; lần muốn in văn bản hoặc t&agrave;i liệu trực tiếp từ thiết bị.</p>
                       </p>
@@ -224,7 +224,7 @@
                 <div class="item">
                   <div class="article"> <a href="index.php?controller=news_detail&id=17" class="image"> <img src="public/frontend/images/chicago.jpg" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
                     <div class="info">
-                      <h3><a href="index.php?controller=news_detail&id=17">Samsung và Oppo tiếp tục thống trị thị trường đầu năm 2017 tại Việt Nam</a></h3>
+                      <h3><a href="index.php?controller=news_detail&id=17">Hot news</a></h3>
                       <p class="desc">
                       <p>(D&acirc;n tr&iacute;) - Hầu hết c&aacute;c sản phẩm nằm trong top 10 b&aacute;n chạy th&aacute;ng 2 v&agrave; nửa đầu th&aacute;ng 3 năm 2017 của c&aacute;c nh&agrave; b&aacute;n lẻ đều đến từ Samsung v&agrave; Oppo. C&aacute;c thương hiệu lớn kh&aacute;c dần dần bị thụt l&ugrave;i về sau...</p>
                       </p>
@@ -270,7 +270,7 @@
           <div class="special-collection">
             <div class="tabs-container">
               <div class="clearfix">
-                <h2>Sữa vinamilk</h2>
+                <h2>Kid Toy</h2>
               </div>
             </div>
             <div class="tabs-content row">
@@ -286,7 +286,7 @@
                   <!-- paging -->
                   <div style="clear: both;"></div>
                   <ul class="pagination pull-right" style="margin-top: 0px !important; padding-right: 15px;">
-                    <li><a href="#">Trang</a></li>
+                    <li><a href="#">Page</a></li>
                     <li><a href="index.php?controller=product&p=1">1</a></li>
                   </ul>              
                 <!-- end paging --> 
@@ -408,10 +408,10 @@
     <div class="ajax-left"> <img class="ajax-product-image" alt="&nbsp;" src="#" style="max-width:65px; max-height:100px"/> </div>
     <div class="ajax-right">
       <p class="ajax-product-title"></p>
-      <p class="success-message btn-go-to-cart"><span style="color:#789629">&#10004;</span> Đã được thêm vào giỏ hàng.</p>
+      <p class="success-message btn-go-to-cart"><span style="color:#789629">&#10004;</span> Added to Cart.</p>
       <div class="actions">
-        <button class="button" onclick="window.location='cart'">Đi tới giỏ hàng</button>
-        <button class="button" onclick="window.location='checkout'">Thanh toán</button>
+        <button class="button" onclick="window.location='cart'">Go to shopping Cart</button>
+        <button class="button" onclick="window.location='checkout'">Payment</button>
       </div>
     </div>
     <a href="javascript:void(0)" class="close-modal"><i class="fa fa-times"></i></a> </div>
