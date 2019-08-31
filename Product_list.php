@@ -14,7 +14,7 @@
               ?>
                   <div class="col-xs-6 col-md-3 col-sm-6 ">
                     <div class="product-grid" id="product-1168979">
-                      <div class="image"> <a href="#"><img src="<?= $image; ?>" title="Sản phẩm ..." alt="Sản phẩm 2" class="img-responsive"></a> </div>
+                      <div class="image"> <a href="Product_detail.php?productid=<?= $productid; ?>"><img src="<?= $image; ?>" title="Sản phẩm ..." alt="Sản phẩm 2" class="img-responsive"></a> </div>
                       <div class="info">
                         <h3 class="name"><a href="#"><?= $productname; ?></a></h3>
                         <p class="price-box"> <span class="special-price"> <span class="price product-price"><?= $price; ?> $</span> </span> </p>
