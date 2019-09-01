@@ -198,7 +198,7 @@
               <div class="owl-home-blog owl-home-blog-sidebar"> 
                 <!-- list hot news -->
                 <div class="item">
-                  <div class="article"> <a href="index.php?controller=news_detail&id=20" class="image"> <img src="images/111.jpg" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
+                  <div class="article"> <a href="index.php?controller=news_detail&id=20" class="image"> <img src="images/111.jpg" alt="" title="" class="img-responsive"> </a>
                     <div class="info">
                       <h3><a href="index.php?controller=news_detail&id=20">Pinky teaddy bear</a></h3>
                       <p class="desc">
@@ -308,21 +308,21 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-sm-4">
-        <div class="image"> <img src="public/frontend/100/047/633/themes/517833/assets/ico-service-1221b.png?1481775169361" alt="Giao hàng miễn phí" title="Giao hàng miễn phí" class="img-responsive"> </div>
+        <div class="image"> <img src="images/ico-service-1221b.png?1481775169361" alt="Giao hàng miễn phí" title="Giao hàng miễn phí" class="img-responsive"> </div>
         <div class="info">
           <h3>Free Delivery</h3>
           <p>Free delivery in Hanoi city</p>
         </div>
       </div>
       <div class="col-xs-12 col-sm-4">
-        <div class="image"> <img src="public/frontend/100/047/633/themes/517833/assets/ico-service-2221b.png?1481775169361" class="img-responsive" alt="Khuyến mại" title="Khuyến mại"> </div>
+        <div class="image"> <img src="images/ico-service-2221b.png?1481775169361" class="img-responsive" alt="Khuyến mại" title="Khuyến mại"> </div>
         <div class="info">
           <h3>Promotion</h3>
           <p>Product promotion if the order is above 100$</p>
         </div>
       </div>
       <div class="col-xs-12 col-sm-4">
-        <div class="image"> <img src="public/frontend/100/047/633/themes/517833/assets/ico-service-3221b.png?1481775169361" class="img-responsive" alt="Hoàn trả lại tiền" title="Hoàn trả lại tiền"> </div>
+        <div class="image"> <img src="images/ico-service-3221b.png?1481775169361" class="img-responsive" alt="Hoàn trả lại tiền" title="Hoàn trả lại tiền"> </div>
         <div class="info">
           <h3>Refunds</h3>
           <p>If the product does not guarantee quality or the product is not in the description</p>
@@ -372,7 +372,7 @@
           </ul>
         </div>
       </div>
-      <div class="payments-method"> <img src="public/frontend/100/047/633/themes/517833/assets/payments-method221b.png?1481775169361" alt="Phương thức thanh toán" title="Phương thức thanh toán"> </div>
+      <div class="payments-method"> <img src="images/payments-method221b.png?1481775169361" alt="Phương thức thanh toán" title="Phương thức thanh toán"> </div>
     </div>
   </div>
   <div class="bottom-footer">
