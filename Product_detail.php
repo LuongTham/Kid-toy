@@ -58,7 +58,7 @@
 <div class="mid-header">
   <div class="container">
     <div class="row">
-      <div class="col-xs-12 col-sm-12 col-md-3 logo "> <a href="index.html"> <img src="public/frontend/100/047/633/themes/517833/assets/logo221b.png?1481775169361" alt="DKT Store" title="DKT Store" class="img-responsive"> </a> </div>
+      <div class="col-xs-12 col-sm-12 col-md-3 logo "> <a href="index.html"> <img src="images/logo01.png" alt="DKT Store" title="DKT Store" class="img-responsive"> </a> </div>
       <div class="col-xs-12 col-sm-12 col-md-6 header-search"> 
         <script type="text/javascript">
           function search(){
@@ -182,7 +182,7 @@
               </div>
               <div class="sp_1">
                 <p>Sales consultant 2</p>
-                <p>Mr. Tuấn: (04) 3786 8904</p>
+                <p>Mr. Tuan: (04) 3786 8904</p>
               </div>
               <div class="sp_1">
                 <p>Email contact: </p>
@@ -202,7 +202,7 @@
                     <div class="info">
                       <h3><a href="index.php?controller=news_detail&id=20">Where I can buy this?</a></h3>
                       <p class="desc">
-                      <p>X-37B c&oacute; thể triển khai như vũ kh&iacute; ti&ecirc;u diệt vệ tinh của đối phương, hoặc thả vũ kh&iacute; động năng đến bất kỳ vị tr&iacute; n&agrave;o tr&ecirc;n Tr&aacute;i Đất.</p>
+                      <p>As the bumblebee character in the Transformer movie, this figure can smoothly turning from the yellow car into the giant robot with 2 arms, legs and the head without missing any components.</p>
                       </p>
                     </div>
                   </div>
@@ -214,7 +214,7 @@
                     <div class="info">
                       <h3><a href="index.php?controller=news_detail&id=19">Tip for user@</a></h3>
                       <p class="desc">
-                      <p>(D&acirc;n tr&iacute;) - Nếu bạn l&agrave; mẫu người th&iacute;ch sử dụng iPhone hoặc iPad để l&agrave;m việc, ắt hẳn ch&uacute;ng ta từng c&oacute; lần muốn in văn bản hoặc t&agrave;i liệu trực tiếp từ thiết bị.</p>
+                      <p>As the bumblebee character in the Transformer movie, this figure can smoothly turning from the yellow car into the giant robot with 2 arms, legs and the head without missing any components.</p>
                       </p>
                     </div>
                   </div>
@@ -226,7 +226,7 @@
                     <div class="info">
                       <h3><a href="index.php?controller=news_detail&id=17">Hot news</a></h3>
                       <p class="desc">
-                      <p>(D&acirc;n tr&iacute;) - Hầu hết c&aacute;c sản phẩm nằm trong top 10 b&aacute;n chạy th&aacute;ng 2 v&agrave; nửa đầu th&aacute;ng 3 năm 2017 của c&aacute;c nh&agrave; b&aacute;n lẻ đều đến từ Samsung v&agrave; Oppo. C&aacute;c thương hiệu lớn kh&aacute;c dần dần bị thụt l&ugrave;i về sau...</p>
+                      <p>As the bumblebee character in the Transformer movie, this figure can smoothly turning from the yellow car into the giant robot with 2 arms, legs and the head without missing any components.</p>
                       </p>
                     </div>
                   </div>
@@ -238,7 +238,7 @@
                     <div class="info">
                       <h3><a href="index.php?controller=news_detail&id=16">Những dấu hiệu cho thấy chiếc tủ lạnh nhà bạn đang gặp vấn đề</a></h3>
                       <p class="desc">
-                      <p>(D&acirc;n tr&iacute;) - Mặc d&ugrave; l&agrave; một thiết bị điện tử với độ bền cao, thậm ch&iacute; c&oacute; thể l&ecirc;n tới 10-20 năm, nhưng điều đ&oacute; kh&ocirc;ng c&oacute; nghĩa l&agrave; tủ lạnh kh&ocirc;ng thể hỏng h&oacute;c hay gặp sự cố.</p>
+                      <p>As the bumblebee character in the Transformer movie, this figure can smoothly turning from the yellow car into the giant robot with 2 arms, legs and the head without missing any components.</p>
                       </p>
                     </div>
                   </div>
@@ -246,11 +246,11 @@
                 <!-- end list hot news --> 
                 <!-- list hot news -->
                 <div class="item">
-                  <div class="article"> <a href="index.php?controller=news_detail&id=15" class="image"> <img src="public/frontend/images/chicago.jpg" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
+                  <div class="article"> <a href="index.php?controller=news_detail&id=15" class="image/img10.jpg"> <img src="public/frontend/images/chicago.jpg" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
                     <div class="info">
                       <h3><a href="index.php?controller=news_detail&id=15">Oppo khởi chạy chương trình đặt hàng trước F3 Plus tại Việt Nam@</a></h3>
                       <p class="desc">
-                      <p>Sau ng&agrave;y ra mắt ch&iacute;nh thức v&agrave;o 23/3 tới, Oppo sẽ tiến h&agrave;nh chương tr&igrave;nh đặt h&agrave;ng trước F3 Plus từ ng&agrave;y 24/3 đến hết ng&agrave;y 31/3/2017, kh&aacute;ch h&agrave;ng đặt mua trước sản phẩm F3 Plus sẽ nhận được bộ qu&agrave; tặng d&agrave;nh hấp dẫn.</p>
+                      <p>As the bumblebee character in the Transformer movie, this figure can smoothly turning from the yellow car into the giant robot with 2 arms, legs and the head without missing any components.</p>
                       </p>
                     </div>
                   </div>
@@ -261,7 +261,7 @@
           </div>
         <!-- end hot news --> 
         <!-- adv --> 
-        <img src="public/frontend/images/banner03d5.jpg"> 
+        <img src="images/widebanner1.jpg"> 
         <!-- end adv --> 
         
       </div>
