@@ -261,7 +261,7 @@
           </div>
         <!-- end hot news --> 
         <!-- adv --> 
-        <img src="images/widebanner1.jpg"> 
+
         <!-- end adv --> 
         
       </div>
@@ -343,7 +343,7 @@
       </div>
     </div>
     <!-- adv -->
-    <div class="widebanner"> <a href="#"><img src="public/frontend/100/047/633/themes/517833/assets/widebanner221b.jpg?1481775169361" alt="#" class="img-responsive"></a> </div>
+    <div class="widebanner"> <a href="#"><img src="images/widebanner1.jpg" alt="#" class="img-responsive"></a> </div>
     <!-- end adv --> 
     
   </div>
