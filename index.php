@@ -308,21 +308,21 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-sm-4">
-        <div class="image"> <img src="images/ico-service-1221b.png?1481775169361" alt="Giao hàng miễn phí" title="Giao hàng miễn phí" class="img-responsive"> </div>
+        <div class="image"> <img src="public/frontend/100/047/633/themes/517833/assets/ico-service-1221b.png?1481775169361" alt="Giao hàng miễn phí" title="Giao hàng miễn phí" class="img-responsive"> </div>
         <div class="info">
           <h3>Free Delivery</h3>
           <p>Free delivery in Hanoi city</p>
         </div>
       </div>
       <div class="col-xs-12 col-sm-4">
-        <div class="image"> <img src="images/ico-service-2221b.png?1481775169361" class="img-responsive" alt="Khuyến mại" title="Khuyến mại"> </div>
+        <div class="image"> <img src="public/frontend/100/047/633/themes/517833/assets/ico-service-2221b.png?1481775169361" class="img-responsive" alt="Khuyến mại" title="Khuyến mại"> </div>
         <div class="info">
           <h3>Promotion</h3>
           <p>Product promotion if the order is above 100$</p>
         </div>
       </div>
       <div class="col-xs-12 col-sm-4">
-        <div class="image"> <img src="images/ico-service-3221b.png?1481775169361" class="img-responsive" alt="Hoàn trả lại tiền" title="Hoàn trả lại tiền"> </div>
+        <div class="image"> <img src="public/frontend/100/047/633/themes/517833/assets/ico-service-3221b.png?1481775169361" class="img-responsive" alt="Hoàn trả lại tiền" title="Hoàn trả lại tiền"> </div>
         <div class="info">
           <h3>Refunds</h3>
           <p>If the product does not guarantee quality or the product is not in the description</p>
@@ -372,7 +372,7 @@
           </ul>
         </div>
       </div>
-      <div class="payments-method"> <img src="images/payments-method221b.png?1481775169361" alt="Phương thức thanh toán" title="Phương thức thanh toán"> </div>
+      <div class="payments-method"> <img src="public/frontend/100/047/633/themes/517833/assets/payments-method221b.png?1481775169361" alt="Phương thức thanh toán" title="Phương thức thanh toán"> </div>
     </div>
   </div>
   <div class="bottom-footer">
@@ -391,6 +391,11 @@
     </div>
   </div>
 </footer>
+<script src='public/frontend/100/047/633/themes/517833/assets/owl.carousel.min221b.js?1481775169361' type='text/javascript'></script> 
+<script src='public/frontend/100/047/633/themes/517833/assets/responsive-menu221b.js?1481775169361' type='text/javascript'></script> 
+<script src='public/frontend/100/047/633/themes/517833/assets/elevate-zoom221b.js?1481775169361' type='text/javascript'></script> 
+<script src='public/frontend/100/047/633/themes/517833/assets/main221b.js?1481775169361' type='text/javascript'></script> 
+<script src='public/frontend/100/047/633/themes/517833/assets/ajax-cart221b.js?1481775169361' type='text/javascript'></script>
 <div class="ajax-error-modal modal">
   <div class="modal-inner">
     <div class="ajax-error-title">Erro</div>
