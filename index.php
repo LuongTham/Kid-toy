@@ -58,7 +58,7 @@
 <div class="mid-header">
   <div class="container">
     <div class="row">
-      <div class="col-xs-12 col-sm-12 col-md-3 logo "> <a href="index.html"> <img src="public/frontend/100/047/633/themes/517833/assets/logo221b.png?1481775169361" alt="DKT Store" title="DKT Store" class="img-responsive"> </a> </div>
+      <div class="col-xs-12 col-sm-12 col-md-3 logo "> <a href="index.html"> <img src="images/logo01.png" alt="DKT Store" title="DKT Store" class="img-responsive"> </a> </div>
       <div class="col-xs-12 col-sm-12 col-md-6 header-search"> 
         <script type="text/javascript">
           function search(){
@@ -182,7 +182,7 @@
               </div>
               <div class="sp_1">
                 <p>Sales consultant 2</p>
-                <p>Mr. Tuấn: (04) 3786 8904</p>
+                <p>Mr. Tuan: (04) 3786 8904</p>
               </div>
               <div class="sp_1">
                 <p>Email contact: </p>
@@ -246,7 +246,7 @@
                 <!-- end list hot news --> 
                 <!-- list hot news -->
                 <div class="item">
-                  <div class="article"> <a href="index.php?controller=news_detail&id=15" class="image"> <img src="public/frontend/images/chicago.jpg" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
+                  <div class="article"> <a href="index.php?controller=news_detail&id=15" class="image"> <img src="images/" alt="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" title="Mua iPhone 6s và iPhone 6s Plus chính hãng ở đâu?" class="img-responsive"> </a>
                     <div class="info">
                       <h3><a href="index.php?controller=news_detail&id=15">DC Lego</a></h3>
                       <p class="desc">
